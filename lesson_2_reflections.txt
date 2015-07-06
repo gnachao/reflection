@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	We will see the .git folder, and this folder will keep tracking of the change we made since the last commit. 
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area deosn't not store files.
